@@ -18,3 +18,17 @@ This project was built for practicing object-oriented programming, working with 
 
 ## 💻 Example usage
 
+====== Task Manager ======
+
+Add Task
+
+Remove Task
+
+Mark task as completed
+
+Show all tasks
+
+Remove all completed tasks
+
+Exit
+Choose your option:
